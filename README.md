@@ -1,12 +1,11 @@
-# Coding Club website
+# CIENGRo - Ciencia en Guerrero
 
-## Coding Club is a peer-to-peer learning community based at the University of Edinburgh - you can find our website at https://ourcodingclub.github.io/
+## Ciencia en Guerrero es una comunidad jóven sin fines de lucro para reunir el talento guerrerense en ciencia y tecnología y aportar al estado. La página se puede consultar en: https://ciengro.github.io/
 
-## Our materials are free to share and we welcome feedback at ourcodingclub@gmail.com
+## La forma de contactarnos es mediante redes sociales como Facebook (CIENGRO) o por el mail: ciengro@gmail.com
 
-Check out https://ourcodingclub.github.io/workshop/ to learn how you can get involved!
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Este trabajo está bajo [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
