@@ -31,6 +31,9 @@ markdown: kramdown
 # Google analytics
 google_analytics: UA-117171492-1
 
+# disqus comments
+comments: true
+
 # Category descriptions (for archive pages)
 descriptions:
   - cat: jekyll
